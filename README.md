@@ -1,29 +1,16 @@
 # oracle-health-ai-open-source
 
-[![License: UPL](https://img.shields.io/badge/license-UPL-green)](https://img.shields.io/badge/license-UPL-green) [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=oracle-devrel_oracle-health-ai-open-source)](https://sonarcloud.io/dashboard?id=oracle-devrel_oracle-health-ai-open-source)
+This entire repos has been moved to https://github.com/paulparkinson/oracle-ai-for-sustainable-dev.git under the `health` folder.
 
-## THIS IS A NEW, BLANK REPO THAT IS NOT READY FOR USE YET.  PLEASE CHECK BACK SOON!
 
-## Introduction
-MISSING
+Accompanying workshop doc can be found here: https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3707
 
-## Getting Started
-MISSING
-
-### Prerequisites
-MISSING
-
-## Notes/Issues
-MISSING
-
-## URLs
-* Nothing at this time
 
 ## Contributing
 This project is open source.  Please submit your contributions by forking this repository and submitting a pull request!  Oracle appreciates any contributions that are made by the open source community.
 
 ## License
-Copyright (c) 2022 Oracle and/or its affiliates.
+Copyright (c) 2025 Oracle and/or its affiliates.
 
 Licensed under the Universal Permissive License (UPL), Version 1.0.
 
